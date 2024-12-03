@@ -345,8 +345,19 @@ This project provided valuable insights into the challenges and solutions for re
 - Highlighted the importance of weather conditions in shaping renewable energy outcomes.
 
 ## Project Notebook
-This notebook contains all the analysis, modeling, and visualizations for the project.  
-[View Notebook](Team8_Data606_Capstone_Project.ipynb)
+
+The notebook **Team8_Data606_Capstone_Project.ipynb** contains all the detailed steps for this project, including:
+
+- Data preprocessing and cleaning
+- Exploratory Data Analysis (EDA)
+- Feature engineering
+- Machine learning model development and evaluation
+- Visualizations for insights and results
+
+You can view or download the notebook directly from this repository:
+
+[📘 View Notebook](https://github.com/poojab2813/Data-606-Capstone-Project/blob/master/Team8_Data606_Capstone_Project.ipynb)
+
 
 
 ## How to Run
