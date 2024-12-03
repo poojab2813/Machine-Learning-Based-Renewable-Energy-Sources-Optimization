@@ -20,7 +20,7 @@
 6. [Key Results](#Key-Results)
 7. [Key Contributions](#Key-Contributions)
 8. [How to Run](#How-to-Run)
-9. [Refrences](#Refrences)
+9. [References](#References)
 
 
 ## **Introduction**
