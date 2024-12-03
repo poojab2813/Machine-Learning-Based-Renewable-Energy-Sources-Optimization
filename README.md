@@ -348,24 +348,37 @@ For detailed instructions on running the project, check [How_To_Run.md](How_To_R
 
 ## Future Directions
 
-This project provides a robust foundation for renewable energy integration into the grid using machine learning. However, there are several promising future directions to further enhance the scope and impact of this work:
+This project has demonstrated significant potential for renewable energy optimization using machine learning models. The following future directions aim to build upon the project’s outcomes to enhance grid stability and energy management:
 
-#### **1. Demand Response Strategies**
-- **Objective**: Improve grid stability by coordinating energy demand.
-- **Future Research Direction**:
-  - Extend the current model to provide insights into demand-side management.
-  - Identify optimal times to encourage energy reductions during predicted periods of low renewable output.
-  - Develop frameworks to work alongside predictive models, enabling effective demand response strategies for utilities and grid operators.
+---
 
-#### **2. Policy Impact Assessment and Socioeconomic Factors**
-- **Objective**: Evaluate the impact of policies on renewable energy output and predict energy reliability scenarios.
-- **Future Research Direction**:
-  - Integrate socioeconomic factors and policy-related data into predictive models.
-  - Assess the impact of subsidies, tax incentives, and government initiatives on renewable energy adoption and performance.
-  - Use these insights to shape future energy policies that support sustainable energy systems and promote reliability.
+#### **1. Scenario-Based Analysis to Develop Reliable Curtailment Strategies**
+- **Outcome Basis**: Final models highlighted the high variance in renewable generation due to weather conditions like temperature and wind speed.
+- **Future Direction**:
+  - Conduct scenario-based simulations for curtailment and energy surplus management.
+  - Develop models to predict curtailment needs during energy surplus and propose optimal energy diversion strategies to maintain grid stability.
 
+---
 
-These future directions emphasize the potential for advanced modeling techniques to not only predict and optimize grid operations but also influence energy policy and societal adaptation to renewable energy sources. By incorporating demand response frameworks and policy impact assessments, the project could lead to more comprehensive, actionable insights for stakeholders in the energy sector.
+#### **2. Demand Response Strategies**
+- **Outcome Basis**: Predictive capability to identify periods of low renewable generation.
+- **Future Direction**:
+  - Extend the models to provide demand-side management insights.
+  - Identify optimal times to encourage energy reductions during periods of low renewable generation.
+  - Implement demand response frameworks that incentivize consumer behavior to maintain grid stability without relying solely on increased energy supply.
+
+---
+
+#### **3. Customized Energy Strategies for Different Regions**
+- **Outcome Basis**: Weather factors like temperature, cloud cover, and humidity have varied effects on renewable energy output depending on geographic location.
+- **Future Direction**:
+  - Tailor energy strategies to specific regions by developing localized models.
+  - Optimize energy generation by prioritizing renewable sources based on local conditions, such as maximizing wind power in coastal regions or solar energy in desert areas.
+  - Enhance the efficiency and resilience of the energy grid through region-specific strategies.
+
+---
+
+These future directions aim to address the dynamic challenges of renewable energy integration, improve grid reliability, and promote sustainable energy practices tailored to diverse conditions and scenarios.
 
 
 ## References
