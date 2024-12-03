@@ -1,5 +1,15 @@
 # Data-606-Capstone-Project
-## Intelligent Grid Machine Learning Driven Optimization For Renewable Energy Stability
+
+# 🌍 Intelligent Grid Machine Learning Driven Optimization For Renewable Energy Stability
+
+![Python](https://img.shields.io/badge/Python-3.8-blue)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0.24-orange)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.5.1-red)
+![Project Status](https://img.shields.io/badge/Project%20Status-Complete-brightgreen)
+![Pandas](https://img.shields.io/badge/Pandas-1.4.3-green)
+![NumPy](https://img.shields.io/badge/NumPy-1.23.3-lightgrey)
+![Seaborn](https://img.shields.io/badge/Seaborn-0.11.2-blueviolet)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebook-yellowgreen)
 
 ## 📚 Table of Contents
 1. [Introduction](#Introduction)
@@ -9,6 +19,7 @@
 5. [Models](#Model-Development)
 6. [Key Results](#Key-Results)
 7. [Key Contributions](#Key-Contributions)
+
 
 ## **Introduction**
 
@@ -229,6 +240,15 @@ The Exploratory Data Analysis for this project focused on understanding the rela
 These visualizations provide critical insights into the variability and trends of energy demand, renewable generation, and the role of imports, forming a solid foundation for modeling and analysis.
 
 ## Model Development
+### 🧠 Models and Methods
+![Linear Regression](https://img.shields.io/badge/Model-Linear%20Regression-blue)
+![Ridge Regression](https://img.shields.io/badge/Model-Ridge%20Regression-green)
+![Lasso Regression](https://img.shields.io/badge/Model-Lasso%20Regression-orange)
+![Decision Tree](https://img.shields.io/badge/Model-Decision%20Tree-yellow)
+![Random Forest](https://img.shields.io/badge/Model-Random%20Forest-brightgreen)
+![Gradient Boosting](https://img.shields.io/badge/Model-Gradient%20Boosting-lightblue)
+![XGBoost](https://img.shields.io/badge/Model-XGBoost-red)
+![Hyperparameter Tuning](https://img.shields.io/badge/Method-Hyperparameter%20Tuning-lightgreen)
 
 #### **Research Question 1:**
 **How do weather conditions and energy generation factors influence electricity demand during peak load seasons, and what key drivers significantly impact these fluctuations?**
