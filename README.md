@@ -17,7 +17,7 @@
 3. [Data Collection and Cleaning](#Data-Collection-and-Cleaning)
 4. [Exploratory Data Analysis](#Exploratory-Data-Analysis)
 5. [Modeling](#Model-Development)
-6. [Key Results](#Key-Results)
+6. [Conclusion](#Conclusion)
 7. [Key Contributions](#Key-Contributions)
 8. [Project Notebook](#Project-Notebook)
 9. [How to Run](#How-to-Run)
@@ -221,8 +221,6 @@ The Exploratory Data Analysis for this project focused on understanding the rela
             - `Temperature` strongly correlates with `Load` (`0.62`), indicating increased energy demand during warmer conditions.
             - `Cloud Cover` negatively impacts `Solar Energy` (`-0.56`).
             
-         This analysis provides insights into how weather conditions and renewable energy generation factors interact, forming the foundation for feature selection in model development.
-
 #### Distribution Analysis
 
   ![image](https://github.com/user-attachments/assets/3a25469a-173e-43d9-8767-e69b9108c07b)
@@ -256,7 +254,6 @@ The Exploratory Data Analysis for this project focused on understanding the rela
         - Combined Renewables: Fluctuates with weather conditions, showing higher contributions during favorable periods.
         - Imports: Fills the gap between electricity demand and renewable energy supply, increasing during renewable shortfalls.
 
-These visualizations provide critical insights into the variability and trends of energy demand, renewable generation, and the role of imports, forming a solid foundation for modeling and analysis.
 
 ## Model Development
 ### 🧠 Models and Methods
@@ -321,9 +318,8 @@ These visualizations provide critical insights into the variability and trends o
 
 ---
 
-These models provided insights into electricity load patterns, renewable generation risks, and curtailment scenarios, enabling data-driven solutions for grid optimization and stability.
 
-## Key Results
+## Conclusion
 
 This project provided valuable insights into the challenges and solutions for renewable energy integration into the electricity grid. By addressing critical questions around energy demand, generation risks, and curtailment, we achieved the following key outcomes:
 
@@ -394,9 +390,6 @@ This project has demonstrated significant potential for renewable energy optimiz
   - Enhance the efficiency and resilience of the energy grid through region-specific strategies.
 
 ---
-
-These future directions aim to address the dynamic challenges of renewable energy integration, improve grid reliability, and promote sustainable energy practices tailored to diverse conditions and scenarios.
-
 
 ## References
 This project is supported by insights from key studies and research in the field of renewable energy integration and machine learning. Below are the references:
