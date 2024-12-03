@@ -335,7 +335,7 @@ This project provided valuable insights into the challenges and solutions for re
    - **Findings**: Renewable energy curtailment occurs during periods of high output and low demand. Effective solutions include energy storage systems and demand-side management to enhance grid stability.
    - **Modeling**: Optimized Random Forest and XGBoost models identified key drivers of curtailment, providing actionable insights for reducing wasted renewable energy.
 
-### Key Contributions:
+## Key Contributions:
 - Developed predictive models for electricity load, renewable generation risks, and curtailment.
 - Provided actionable strategies for grid optimization and stability.
 - Highlighted the importance of weather conditions in shaping renewable energy outcomes.
