@@ -38,8 +38,6 @@ This project highlights the potential of data-driven solutions in building smart
 
 The **Intelligent Grid: Machine Learning-Driven Renewable Energy Optimization** project focuses on leveraging advanced machine learning techniques to address challenges in integrating renewable energy sources into the electricity grid. As the world transitions toward sustainable energy, grid operators face challenges like variability in renewable generation, energy curtailment during low demand periods, and meeting peak electricity demand efficiently.
 
-This project provides a comprehensive framework to analyze energy generation, weather patterns, and electricity demand. It addresses three core research questions to ensure grid stability, optimize renewable resource utilization, and minimize energy wastage.
-
 ---
 
 ### **Key Research Questions**
@@ -67,10 +65,6 @@ This project provides a comprehensive framework to analyze energy generation, we
 - **Actionable Insights**:
   - Key drivers of electricity load identified as `Temperature`, `Renewables`, and `Imports`.
   - Suggested strategies like energy storage systems and demand-side management to mitigate curtailment.
-
-### **Impact**
-This project highlights the transformative potential of machine learning in creating resilient, efficient, and sustainable energy grids. By predicting energy demand, understanding risks, and minimizing wastage, it contributes to a cleaner and smarter energy future.
-
 
 ## Data Collection and Cleaning
 
