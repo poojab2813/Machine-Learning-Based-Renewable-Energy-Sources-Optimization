@@ -16,7 +16,7 @@
 2. [Project Overview](#Project-Overview)
 3. [Data Collection and Cleaning](#Data-Collection-and-Cleaning)
 4. [EDA](#Exploratory-Data-Analysis)
-5. [Models](#Model-Development)
+5. [Modeling](#Model-Development)
 6. [Key Results](#Key-Results)
 7. [Key Contributions](#Key-Contributions)
 8. [Project Notebook](#Project-Notebook)
