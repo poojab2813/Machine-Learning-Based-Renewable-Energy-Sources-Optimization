@@ -73,12 +73,14 @@ The **Intelligent Grid: Machine Learning-Driven Renewable Energy Optimization** 
   1. **Curtailment Data**:
      - Includes records of wind and solar energy curtailments.
      - Data Period: 2020–2024.
+     - source: https://www.caiso.com/about/our-business/managing-the-evolving-grid
   2. **Production Data**:
      - Captures energy generation by type (solar, wind, nuclear, etc.).
      - Data Period: 2020–2024.
+     - source: https://www.caiso.com/about/our-business/managing-the-evolving-grid
   3. **Weather Data**:
      - Historical weather metrics such as temperature, humidity, and wind speed.
-     - Source: Visual Crossing.
+     - Source: Visual Crossing. (https://www.visualcrossing.com/weather-data)
 
   #### Description of Features
   
