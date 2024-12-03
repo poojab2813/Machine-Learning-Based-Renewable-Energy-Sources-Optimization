@@ -19,9 +19,10 @@
 5. [Models](#Model-Development)
 6. [Key Results](#Key-Results)
 7. [Key Contributions](#Key-Contributions)
-8. [How to Run](#How-to-Run)
-9. [Future Directions](#Future-Directions)
-10. [References](#References)
+8. [Project Notebook](#Project-Notebook)
+9. [How to Run](#How-to-Run)
+10. [Future Directions](#Future-Directions)
+11. [References](#References)
 
 
 ## **Introduction**
@@ -342,6 +343,11 @@ This project provided valuable insights into the challenges and solutions for re
 - Developed predictive models for electricity load, renewable generation risks, and curtailment.
 - Provided actionable strategies for grid optimization and stability.
 - Highlighted the importance of weather conditions in shaping renewable energy outcomes.
+
+## Project Notebook
+This notebook contains all the analysis, modeling, and visualizations for the project.  
+[View Notebook](Team8_Data606_Capstone_Project.ipynb)
+
 
 ## How to Run
 For detailed instructions on running the project, check [How_To_Run.md](How_To_Run.md).
