@@ -15,7 +15,7 @@
 1. [Introduction](#Introduction)
 2. [Project Overview](#Project-Overview)
 3. [Data Collection and Cleaning](#Data-Collection-and-Cleaning)
-4. [EDA](#Exploratory-Data-Analysis)
+4. [Exploratory Data Analysis](#Exploratory-Data-Analysis)
 5. [Modeling](#Model-Development)
 6. [Key Results](#Key-Results)
 7. [Key Contributions](#Key-Contributions)
