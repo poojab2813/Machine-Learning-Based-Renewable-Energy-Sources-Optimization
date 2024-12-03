@@ -204,6 +204,25 @@ This project highlights the transformative potential of machine learning in crea
 
 ## Exploratory Data Analysis
 The Exploratory Data Analysis for this project focused on understanding the relationships between renewable energy production, weather conditions, and electricity demand, along with identifying patterns in energy curtailment.
+#### Correlation Analysis
+![image](https://github.com/user-attachments/assets/b5bf906a-183a-43b7-b606-916f179f2ceb)
+
+       The correlation matrix highlights the relationships between key features in the dataset:
+            
+         - Strong Positive Correlations:
+            - `Load` and `Generation` (`0.92`): High electricity demand corresponds to increased energy generation.
+            - `Renewables` and `Solar` (`0.97`): Solar energy is a major contributor to renewable generation.
+            
+         - Strong Negative Correlations:
+            - `Imports` and `Renewables` (`-0.73`): Higher renewable generation reduces reliance on imports.
+            - `Humidity` and `Solar Energy` (`-0.56`): High humidity is associated with reduced solar energy output.
+            
+         - Weather Influence**:
+            - `Temperature` strongly correlates with `Load` (`0.62`), indicating increased energy demand during warmer conditions.
+            - `Cloud Cover` negatively impacts `Solar Energy` (`-0.56`).
+            
+         This analysis provides insights into how weather conditions and renewable energy generation factors interact, forming the foundation for feature selection in model development.
+
 #### Distribution Analysis
 
   ![image](https://github.com/user-attachments/assets/3a25469a-173e-43d9-8767-e69b9108c07b)
