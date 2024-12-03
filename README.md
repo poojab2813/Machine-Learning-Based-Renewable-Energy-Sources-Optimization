@@ -19,6 +19,7 @@
 5. [Models](#Model-Development)
 6. [Key Results](#Key-Results)
 7. [Key Contributions](#Key-Contributions)
+8. [How to Run](#How-to-Run)
 
 
 ## **Introduction**
@@ -338,7 +339,8 @@ This project provided valuable insights into the challenges and solutions for re
 - Provided actionable strategies for grid optimization and stability.
 - Highlighted the importance of weather conditions in shaping renewable energy outcomes.
 
-This project demonstrates the potential of machine learning in addressing the complexities of renewable energy integration, paving the way for more efficient and sustainable power grids.
+## How to Run
+For detailed instructions on running the project, check [HOW_TO_RUN.md](HOW_TO_RUN.md).
 
 
 
