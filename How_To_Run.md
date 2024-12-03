@@ -26,7 +26,7 @@ Ensure file paths are updated to match your local or Google Colab environment.
 #### **3. Running the Project**
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Data-606-Capstone-Project.git
+   git clone[ https://github.com/Data-606-Capstone-Project.git](https://github.com/poojab2813/Data-606-Capstone-Project.git)
    cd Data-606-Capstone-Project
    ```
 
