@@ -20,7 +20,8 @@
 6. [Key Results](#Key-Results)
 7. [Key Contributions](#Key-Contributions)
 8. [How to Run](#How-to-Run)
-9. [References](#References)
+9. [Future Directions](#Future-Directions)
+10. [References](#References)
 
 
 ## **Introduction**
@@ -344,6 +345,33 @@ This project provided valuable insights into the challenges and solutions for re
 
 ## How to Run
 For detailed instructions on running the project, check [How_To_Run.md](How_To_Run.md).
+
+## Future Directions
+
+This project provides a robust foundation for renewable energy integration into the grid using machine learning. However, there are several promising future directions to further enhance the scope and impact of this work:
+
+---
+
+#### **1. Demand Response Strategies**
+- **Objective**: Improve grid stability by coordinating energy demand.
+- **Future Research Direction**:
+  - Extend the current model to provide insights into demand-side management.
+  - Identify optimal times to encourage energy reductions during predicted periods of low renewable output.
+  - Develop frameworks to work alongside predictive models, enabling effective demand response strategies for utilities and grid operators.
+
+---
+
+#### **2. Policy Impact Assessment and Socioeconomic Factors**
+- **Objective**: Evaluate the impact of policies on renewable energy output and predict energy reliability scenarios.
+- **Future Research Direction**:
+  - Integrate socioeconomic factors and policy-related data into predictive models.
+  - Assess the impact of subsidies, tax incentives, and government initiatives on renewable energy adoption and performance.
+  - Use these insights to shape future energy policies that support sustainable energy systems and promote reliability.
+
+---
+
+These future directions emphasize the potential for advanced modeling techniques to not only predict and optimize grid operations but also influence energy policy and societal adaptation to renewable energy sources. By incorporating demand response frameworks and policy impact assessments, the project could lead to more comprehensive, actionable insights for stakeholders in the energy sector.
+
 
 ## References
 This project is supported by insights from key studies and research in the field of renewable energy integration and machine learning. Below are the references:
