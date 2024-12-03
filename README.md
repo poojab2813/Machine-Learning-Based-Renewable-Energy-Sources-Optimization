@@ -340,7 +340,7 @@ This project provided valuable insights into the challenges and solutions for re
 - Highlighted the importance of weather conditions in shaping renewable energy outcomes.
 
 ## How to Run
-For detailed instructions on running the project, check [HOW_TO_RUN.md](HOW_TO_RUN.md).
+For detailed instructions on running the project, check [How_To_Run.md](How_To_Run.md).
 
 
 
