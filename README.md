@@ -2,12 +2,12 @@
 ## Intelligent Grid Machine Learning Driven Optimization For Renewable Energy Stability
 
 ## 📚 Table of Contents
-1. [Introduction](#🌍-Introduction)
-2. [Project Overview](#🌟-Project-Overview)
+1. [Introduction](#Introduction)
+2. [Project Overview](#Project-Overview)
 3. [Data Collection and Cleaning](#Data-Collection-and-Cleaning)
-4. [EDA](#🔍-Exploratory-Data-Analysis)
-5. [Models](#🚀-Model-Development)
-6. [Key Results](#🎯-Key-Results)
+4. [EDA](#Exploratory-Data-Analysis)
+5. [Models](#Model-Development)
+6. [Key Results](#Key-Results)
 7. [Key Contributions](#Key-Contributions)
 
 ## 🌍 **Introduction**
