@@ -5,7 +5,6 @@
 ![Python](https://img.shields.io/badge/Python-3.8-blue)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0.24-orange)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.5.1-red)
-![Project Status](https://img.shields.io/badge/Project%20Status-Complete-brightgreen)
 ![Pandas](https://img.shields.io/badge/Pandas-1.4.3-green)
 ![NumPy](https://img.shields.io/badge/NumPy-1.23.3-lightgrey)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0.11.2-blueviolet)
