@@ -10,7 +10,7 @@
 6. [Key Results](#Key-Results)
 7. [Key Contributions](#Key-Contributions)
 
-## 🌍 **Introduction**
+## **Introduction**
 
 The **Intelligent Grid: Machine Learning-Driven Renewable Energy Optimization** project aims to address the growing challenges of integrating renewable energy sources, such as solar and wind, into the electricity grid. With the increasing adoption of renewables, grid operators face issues like energy curtailment, variability in generation, and balancing supply with demand during peak periods.
 
@@ -23,7 +23,7 @@ Key objectives include:
 
 This project highlights the potential of data-driven solutions in building smarter, more sustainable energy grids to meet the demands of a renewable-driven future.
 
-## **🌟 Project Overview**
+## **Project Overview**
 
 The **Intelligent Grid: Machine Learning-Driven Renewable Energy Optimization** project focuses on leveraging advanced machine learning techniques to address challenges in integrating renewable energy sources into the electricity grid. As the world transitions toward sustainable energy, grid operators face challenges like variability in renewable generation, energy curtailment during low demand periods, and meeting peak electricity demand efficiently.
 
@@ -191,7 +191,7 @@ This project highlights the transformative potential of machine learning in crea
           - Removed duplicates and verified data consistency.
     This process ensured a clean and concise dataset focused solely on features relevant to the research.
 
-## 🔍 Exploratory Data Analysis
+## Exploratory Data Analysis
 The Exploratory Data Analysis for this project focused on understanding the relationships between renewable energy production, weather conditions, and electricity demand, along with identifying patterns in energy curtailment.
 #### Distribution Analysis
 
@@ -228,7 +228,7 @@ The Exploratory Data Analysis for this project focused on understanding the rela
 
 These visualizations provide critical insights into the variability and trends of energy demand, renewable generation, and the role of imports, forming a solid foundation for modeling and analysis.
 
-## 🚀 Model Development
+## Model Development
 
 #### **Research Question 1:**
 **How do weather conditions and energy generation factors influence electricity demand during peak load seasons, and what key drivers significantly impact these fluctuations?**
@@ -284,7 +284,7 @@ These visualizations provide critical insights into the variability and trends o
 
 These models provided insights into electricity load patterns, renewable generation risks, and curtailment scenarios, enabling data-driven solutions for grid optimization and stability.
 
-## 🎯 Key Results
+## Key Results
 
 This project provided valuable insights into the challenges and solutions for renewable energy integration into the electricity grid. By addressing critical questions around energy demand, generation risks, and curtailment, we achieved the following key outcomes:
 
