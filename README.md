@@ -20,6 +20,7 @@
 6. [Key Results](#Key-Results)
 7. [Key Contributions](#Key-Contributions)
 8. [How to Run](#How-to-Run)
+9. [Refrences](#Refrences)
 
 
 ## **Introduction**
@@ -343,6 +344,26 @@ This project provided valuable insights into the challenges and solutions for re
 
 ## How to Run
 For detailed instructions on running the project, check [How_To_Run.md](How_To_Run.md).
+
+## References
+This project is supported by insights from key studies and research in the field of renewable energy integration and machine learning. Below are the references:
+
+1. [Machine learning-based utilization of renewable power curtailments under uncertainty by planning of hydrogen systems and battery storages](https://www.sciencedirect.com/science/article/abs/pii/S2352152X21007210?via%3Dihub)  
+   - **Authors**: Mohammad H. Shams, Haider Niaz, Jonggeol Na, Amjad Anvari-Moghaddam, J. Jay Liu  
+   - **Description**: This study highlights the application of machine learning to optimize renewable power curtailments through planning of hydrogen systems and battery storages.
+
+2. [Artificial intelligence-based prediction and analysis of the oversupply of wind and solar energy in power systems](https://www.sciencedirect.com/science/article/abs/pii/S0196890421010682?via%3Dihub)  
+   - **Authors**: Mohammad H. Shams, Haider Niaz, Behzad Hashemi, J. Jay Liu, Pierluigi Siano, Amjad Anvari-Moghaddam  
+   - **Description**: This paper discusses AI-based methodologies for predicting and analyzing oversupply scenarios of wind and solar energy in power systems.
+
+3. [Integration of Renewable Energy Sources in future power systems: The role of storage](https://www.sciencedirect.com/science/article/abs/pii/S096014811400593X)  
+   - **Authors**: Stefan Weitemeyer, David Kleinhans, Thomas Vogt, Carsten Agert  
+   - **Description**: This research explores the critical role of storage solutions in enabling the integration of renewable energy sources in future power systems.
+
+4. [Forecasting Renewable Energy Generation with Machine Learning and Deep Learning: Current Advances and Future Prospects](https://www.researchgate.net/publication/370208950_Forecasting_Renewable_Energy_Generation_with_Machine_learning_and_Deep_Learning_Current_Advances_and_Future_Prospects?enrichId=rgreq-8b6254a33c9febe5c7b08576ae6fc513-XXX&enrichSource=Y292ZXJQYWdlOzM3MDIwODk1MDtBUzoxMTQzMTI4MTE1MjkzNjg3NEAxNjgyMjYyNTY0MDk0&el=1_x_2&_esc=publicationCoverPdf)  
+   - **Description**: This paper provides an overview of current advances and future prospects in forecasting renewable energy generation using machine learning and deep learning approaches.
+
+---
 
 
 
