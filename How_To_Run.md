@@ -1,4 +1,4 @@
-### Updated How to Run the Project
+### How to Run the Project
 
 Follow these steps to set up, prepare, and run the project, including the usage of **LIME (Local Interpretable Model-Agnostic Explanations)** plots for model interpretability.
 
