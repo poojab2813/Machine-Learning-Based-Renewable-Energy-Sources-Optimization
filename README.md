@@ -20,8 +20,9 @@
 7. [Key Contributions](#Key-Contributions)
 8. [Project Notebook](#Project-Notebook)
 9. [How to Run](#How-to-Run)
-10. [Future Directions](#Future-Directions)
-11. [References](#References)
+10. [Limitations and Assumptions](#Limitations-and-Assumptions)
+11. [Future Directions](#Future-Directions)
+12. [References](#References)
 
 
 ## **Introduction**
@@ -357,6 +358,65 @@ You can view or download the notebook directly from this repository:
 
 ## How to Run
 For detailed instructions on running the project, check [How_To_Run.md](How_To_Run.md).
+
+Based on the project and provided content, here are the **limitations and assumptions**:
+
+Based on the project and provided content, here are the **limitations and assumptions**:
+
+## Limittations and Assumptions
+
+### **Limitations**
+
+1. **Generalizability**:
+
+   -  The models are trained on California-specific data and may not generalize well to other regions without retraining or adaptation.
+
+   - Regional weather patterns, energy infrastructure, and market regulations are not considered in the current scope.
+
+2. **Curtailment Data Granularity**:
+
+   - Curtailment data is aggregated, and specific operational factors causing curtailment (e.g., grid constraints) are not directly analyzed.
+
+3. **Model Complexity**:
+
+   - Linear models failed to capture non-linear relationships, relying heavily on tree-based models like Random Forest and XGBoost.
+
+   - These models, while accurate, may lack interpretability compared to simpler models.
+
+4. **Static Feature Importance**:
+
+   - Feature importance is static and does not dynamically adapt to temporal or situational variations (e.g., seasonal effects on renewables).
+   
+
+---
+
+### **Assumptions**
+
+1. **Data Reliability**:
+
+   - Assumes that the datasets from sources like Visual Crossing and CAISO are accurate and represent real-world conditions.
+
+2. **Weather Impact**:
+
+    Assumes weather variables such as temperature, humidity, and solar radiation are important determinants of energy demand and generation.
+
+3. **Feature Relevance**:
+
+like temperature, humidity, renewables, imports are expected to significantly increase the variability of demand for and generation of electricity.
+
+4. **Predictive Scope**:
+
+   - Predictions focus on hourly and daily trends rather than long-term strategic planning.
+
+5. **Model Scalability**:
+
+   - Assumes the machine learning models can be scaled or adapted to similar datasets from other regions or future time periods.
+
+6. **Grid Stability Strategies**
+
+- Recommendations are made under the assumption that energy storage and demand-side management are feasible without a detailed exploration of costs or operating activities.
+
+---
 
 ## Future Directions
 
