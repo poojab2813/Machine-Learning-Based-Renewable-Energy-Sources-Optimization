@@ -24,7 +24,7 @@ This repository contains all the files, datasets, and notebooks used for the **D
   - `production-and-curtailments-data-2024.xlsx`
 
 ### **3. Supporting Files**
-- **README.md**: Project description and repository structure (this file).
+- **master.md**: Project description and repository structure (this file).
 
 ---
 
