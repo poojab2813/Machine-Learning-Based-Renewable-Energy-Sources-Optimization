@@ -353,6 +353,8 @@ The notebook **Team8_Data606_Capstone_Project.ipynb** contains all the detailed 
 You can view or download the notebook directly from this repository:
 
 [📘 View Notebook](https://github.com/poojab2813/Data-606-Capstone-Project/blob/master/Team8_Data606_Capstone_Project.ipynb)
+[view Team8_Data_Preparation_and_EDA notebook](https://github.com/poojab2813/Data-606-Capstone-Project/blob/master/Team8_Data_Preparation_and_EDA.ipynb)
+
 
 
 
