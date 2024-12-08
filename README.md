@@ -353,7 +353,11 @@ The notebook **Team8_Data606_Capstone_Project.ipynb** contains all the detailed 
 You can view or download the notebook directly from this repository:
 
 - [📘 View Notebook](https://github.com/poojab2813/Data-606-Capstone-Project/blob/master/Team8_Data606_Capstone_Project.ipynb)
+
+The Following notebooks are the final updated notebooks
 - [view Team8_Data_Preparation_and_EDA notebook](https://github.com/poojab2813/Data-606-Capstone-Project/blob/master/Team8_Data_Preparation_and_EDA.ipynb)
+- [view Team8 Modeling notebook](https://github.com/poojab2813/Data-606-Capstone-Project/blob/master/Team8_Modeling.ipynb)
+- [view Team8 Deep Learning Modeling](https://github.com/poojab2813/Data-606-Capstone-Project/blob/master/Team8_DeepLearning.ipynb)
 
 
 ## How to Run
