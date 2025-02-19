@@ -367,7 +367,7 @@ Based on the project and provided content, here are the **limitations and assump
 
 Based on the project and provided content, here are the **limitations and assumptions**:
 
-## Limittations and Assumptions
+## Limitations and Assumptions
 
 ### **Limitations**
 
